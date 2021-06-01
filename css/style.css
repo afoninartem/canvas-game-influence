@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  justify-items: center;
+  /* width: 100vw; */
+}
+
+#canvas {
+  margin: 0 auto;
+  background: url('../img/space-bg.png') no-repeat center 100% / 100%;
+}
